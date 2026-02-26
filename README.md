@@ -51,7 +51,7 @@ Simula o comportamento de uma fechadura eletrônica com senha 1-2-3, utilizando 
 Exemplo:   1-2-3 → Acesso concedido             1-3-2 → Senha inválida 
 Máquina de estados finitos (switch-case)
 
-Como executar
+Como executar =
 python retangulo.py
 python triangulo.py
 python triangulo_invertido.py

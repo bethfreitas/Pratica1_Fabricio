@@ -13,29 +13,29 @@ meu_projeto/
 
 
 Atividades
-1. Triangulo
+1. Triangulo-
 Desenha um triângulo de * com altura informada pelo usuário (máximo 20).
  
-2. Retangulo
+2. Retangulo-
 Desenha um retângulo de * com largura e altura informadas pelo usuário (máximo 20).
 
-3. Triângulo Invertido
+3. Triângulo Invertido-
 Desenha um triângulo invertido de * com tamanho informado pelo usuário (máximo 20).
   todos utilizei laços de repetiçao
 
-4. Conjunto
+4. Conjunto-
 Implementa as operações de união e interseção entre dois conjuntos, sem elementos duplicados.
 Exemplo:     A = [1, 2, 3]         B = [2, 3, 4]
 União:       [1, 2, 3, 4]
 Interseção:  [2, 3]
 Listas e operações de conjunto
 
-5. Verificador
+5. Verificador-
 Verifica se os delimitadores (), [] e {} de uma expressão matemática estão abertos e fechados na ordem correta.
 Exemplo: (a + [b * c] - {d/e}) → Válido       ([)]  → Inválido
  Pilha (Stack) — LIFO
 
-6. Tokenizador
+6. Tokenizador-
 Recebe uma expressão fixa e quebra o conteúdo em partes menores, categorizando cada token.
 Exemplo:  soma = 10 + 20 ;
 soma → Identificador
@@ -45,7 +45,8 @@ soma → Identificador
 20   → Número
 ;    → Fim de instrução
 Split de String e categorização por dicionário
-7. TravaLogica
+
+7. TravaLogica-
 Simula o comportamento de uma fechadura eletrônica com senha 1-2-3, utilizando máquina de estados.
 Exemplo:   1-2-3 → Acesso concedido             1-3-2 → Senha inválida 
 Máquina de estados finitos (switch-case)

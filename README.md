@@ -16,7 +16,7 @@ Atividades
 1. Triangulo
 Desenha um triângulo de * com altura informada pelo usuário (máximo 20).
  
-2. Triângulo
+2. Retangulo
 Desenha um retângulo de * com largura e altura informadas pelo usuário (máximo 20).
 
 3. Triângulo Invertido

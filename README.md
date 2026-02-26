@@ -52,13 +52,13 @@ Exemplo:   1-2-3 → Acesso concedido             1-3-2 → Senha inválida
 Máquina de estados finitos (switch-case)
 
 Como executar =
-python retangulo.py
-python triangulo.py
-python triangulo_invertido.py
-python verificador.py
-python tokenizador.py
-python travaLogica.py
-python conjunto.p
+python retangulo.py /
+python triangulo.py /
+python triangulo_invertido.py /
+python verificador.py /
+python tokenizador.py /
+python travaLogica.py /
+python conjunto.py
 
 
 Elizabeth J. Freitas

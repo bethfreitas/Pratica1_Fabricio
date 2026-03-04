@@ -1,7 +1,8 @@
 As questões foram feito em Python. \
 Lista 1 feita junto com: \
 Elizabeth Januário - 324141167 \
-Italo Baruc - 324274568 
+Italo Baruc - 324274568 \
+Hugo Thalles - 32414707
 
 #### Como executar
 Clone o repositório:
